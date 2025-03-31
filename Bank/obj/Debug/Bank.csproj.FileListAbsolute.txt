@@ -1,0 +1,7 @@
+D:\Programms\VisualStudio\repos\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Programms\VisualStudio\repos\Bank\Bank\bin\Debug\Bank.exe
+D:\Programms\VisualStudio\repos\Bank\Bank\bin\Debug\Bank.pdb
+D:\Programms\VisualStudio\repos\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Programms\VisualStudio\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Programms\VisualStudio\repos\Bank\Bank\obj\Debug\Bank.exe
+D:\Programms\VisualStudio\repos\Bank\Bank\obj\Debug\Bank.pdb
